@@ -20,6 +20,12 @@
 	- It is a foundation of Software Engineering, It is the glue the holds the technology layers together and enables logical and timely development of computer software.
 	- It defines a framework with activities for effective delivery of software engineering technology
 	- It establish the context in which technical methods are applied, work products (models, documents, data, reports, forms, etc.) are produced, milestones are established, quality is ensured, and change is properly managed.
-1. Methods
-2. Tools
+3. Methods 
+	 - It provides technical how-to’s for building software
+	- It encompasses many tasks including communication, requirement analysis, design modeling, program construction, testing and support
+1. Tools
+    - Software engineering tools provide automated or semiautomated support for the process and the methods
+	- Computer‐aided software engineering (CASE) is the scientific application of a set of tools and methods to a software system which is meant to result in high‐quality, defect‐free, and maintainable software products.
+	- CASE tools automate many of the activities involved in various life cycle phases.
 	
+	#SoftwareEngineering 

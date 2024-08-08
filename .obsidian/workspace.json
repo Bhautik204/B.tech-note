@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "47b3e561c88594d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "57d3fdfb5d917e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc18e2cc2427b756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "104148dfdc40550a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37f7f1bad34da7b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ddca01993424ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd01fb4dfd60d9cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "510d6a91a8895500",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ec71dd562daf2fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "026e480d3ab80258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f373fe7c5a8e4157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b058074676dc8951",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engineering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9895498aa1a640da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c46f1ff714f9897b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engineering.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fc18e2cc2427b756",
+  "lastOpenFiles": [
+    "Software Myths.md",
+    "Software Engineering.md",
+    "Software Process.md",
+    "Pasted image 20240808222743.png",
+    "Pasted image 20240808222507.png",
+    "Pasted image 20240808222427.png",
+    "Pasted image 20240808222111.png",
+    "Software Engineering & Layered Approach.md",
+    "Characteristics Of Software.md",
+    "Need Of  Software Engineering.md",
+    "Characteristics Of Accounting.md",
+    "Need of Software Engineering.md"
+  ]
+}
