@@ -1,0 +1,37 @@
+### Technical Terms in Accounting
+
+- **Entry**: Record of a transaction in the books of account.
+- **Transaction**: Exchange of goods, services, and cash between persons.
+- **Voucher**: A document supporting a business transaction.
+- **Debit**: Left-hand side of an account.
+- **Credit**: Right-hand side of an account.
+- **Journal**: Book of original entry in double-entry bookkeeping.
+- **Ledger**: Main book of account containing all accounts relating to persons, properties, incomes, and expenses.-
+- Goods: Articles in which the business deals, bought for resale to make a profit.
+- **Stock**: Unsold goods balance, either closing stock or opening stock.
+- **Debtor**: A person who owes debt to the business.
+- **Creditor**: A person to whom debt is owed by the business.
+- **Liabilities**: Debts a business owes to others.
+- **Assets**: Things or rights owned by the business with monetary value.
+    - **Fixed Assets**: Not purchased for resale, e.g., building, machinery.
+    - **Current Assets**: Constantly converted into cash, e.g., stock, debtors.
+    - **Tangible Assets**: Have physical existence, e.g., machinery.
+    - **Intangible Assets**: No physical existence, e.g., goodwill, patents.
+- **Capital**: Amount invested by the proprietor in a business.
+- **Drawings**: Value of cash or goods withdrawn from business by a proprietor for personal use.
+- **Solvent**: When assets are more than liabilities.
+- **Insolvent**: When liabilities are more than assets.
+- **Expenses**: Money spent in conducting the business.
+- **Revenue**: Gross money receipts from the sale of products and services.
+- **Income**: Net earnings from the sale of products or services.
+- **Bad Debts**: Loss of business due to unreceived amounts from debtors.
+- **Discount**: Difference when business agrees to receive less than the printed price.
+    - **Trade Discount**: Allowed by a producer or wholesaler to a retailer.
+    - **Cash Discount**: Allowance for prompt payment.
+- **Allowance**: Amount allowed by the receiver to the payer during debt settlement.
+- **Profit**: When total income is more than expenses.
+- **Loss**: When expenses are more than income.
+- **Loan**: Amount borrowed or lent.
+- **Bills Receivable**: A document signed by the debtor promising to pay the creditor.
+- **Bills Payable**: A document signed by the creditor, accepted by the debtor to pay within a specified time.
+#FOA
