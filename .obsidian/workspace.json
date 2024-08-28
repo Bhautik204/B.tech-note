@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc18e2cc2427b756",
+            "id": "1f727a546837966d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Branches Of  Accounting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Branches Of  Accounting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Branches Of  Accounting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Branches Of  Accounting.md"
+              }
             }
           }
         ]
@@ -138,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc18e2cc2427b756",
+  "active": "1f727a546837966d",
   "lastOpenFiles": [
+    "Fundamentals Of  Accounting.md",
+    "Branches Of  Accounting.md",
+    "Characteristics Of Accounting & Objective Of Accounting.md",
+    "Pasted image 20240828202010.png",
+    "Pasted image 20240828201942.png",
+    "Pasted image 20240828201900.png",
+    "Pasted image 20240828201743.png",
+    "Classification Of Accounts & Rules Debit and Credit.md",
+    "C-Sharp Fundamentals.md",
     "Software Myths.md",
     "Software Process.md",
     "Software Engineering.md",
