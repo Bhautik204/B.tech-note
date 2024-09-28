@@ -23,7 +23,7 @@
 	- Connection
 	- Command
 	- Data Reader
-- Connection
+- ##### Connection
 	- It is a first component Of **ADO.NET.**
 	- It provide connectivity to **Data Source.**
 	- It establishes a connection to a specific data source. 
@@ -31,8 +31,8 @@
 	- The base class for all Connection objects is the DbConnection class.
 	- Methods of Connection Object
 		- **Open():** this method opens connection using information provided by connection string. 
-		- **Close():** this method closes already opened connection
-	- Properties Of Connection Object
+		- **Close():** this method closes already opened connecti
+	- Properties Of Connection Object👇
 
 | Properties         | Description                                                                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,4 +42,27 @@
 | Initial Catalog    | It specifies name of database with which connection is required.                                                                                                 |
 | UserID             | It specifies username to connect with database.                                                                                                                  |
 | Password           | It specifies password to connect with database.                                                                                                                  |
-	
+##### command
+- It enables access to database commands to return data, modify data, run stored procedures, and send or retrieve parameter information.
+- It **executes a command against a data source.**
+- Exposes parameters and can execute in the scope of a transaction from a connection.
+- You can execute SQL queries to return data in a DataSet or a DataReader object.
+- Command object performs the standard Select, Insert, Delete and Update T-SQL operations.
+- The base class for all command objects is the DbCommand class.
+- Properties of Command Object.
+	- **Connection:** It specifies that on which connection command executes.
+	- **CommandType:** It specifies type of Command to execute 
+		- Text – SQL Statement as command type 
+		- StoredProcedure – Stored Procedure as command type 
+		- Table – Table Name as command type
+	- **CommandText:** Either SQL Statement or name of Stored Procedure or name of Database table.
+- Methods Of Command Object👇
+
+| Method             | Description                                                                                                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ExecuteReader()    | The ExecuteReader method executes the command specified and returns an instance of SqlDataReader class. It is used to **Select data from database**                         |
+| ExecuteNonQuery()  | This method executes the command specifies and **returns the number of rows affected.** It is used for **insert, update and delete** operations.                            |
+| ExecuteScalar()    | This method executes the command specifies and returns the **first column of first row of the result set**. The remaining rows and column are ignored.                      |
+| ExecuteXmlReader() | This method executes the command specified and returns an instance of XmlReader class. This method can be used to return the **result set in the form of an XML document.** |
+| CreateCommand()    | This method created new command object on given connection object.                                                                                                          |
+
