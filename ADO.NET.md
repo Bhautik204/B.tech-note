@@ -21,11 +21,25 @@
 - It is used for connecting to a database, executing commands, and retrieving results.
 - The Data Provider has core objects like:
 	- Connection
-		- It is a first component Of **ADO.NET.**
-		- It provide connectivity to **Data Source.**
-		- It establishes a connection to a specific data source. 
-		- Connection object helps in accessing and manipulating a database.
-		- The base class for all Connection objects is the DbConnection class.
-		- ![[Pasted image 20240928195940.png]]
 	- Command
 	- Data Reader
+- Connection
+	- It is a first component Of **ADO.NET.**
+	- It provide connectivity to **Data Source.**
+	- It establishes a connection to a specific data source. 
+	- Connection object helps in accessing and manipulating a database.
+	- The base class for all Connection objects is the DbConnection class.
+	- Methods of Connection Object
+		- **Open():** this method opens connection using information provided by connection string. 
+		- **Close():** this method closes already opened connection
+	- Properties Of Connection Object
+
+| Properties         | Description                                                                                                                                                      |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ConnectionString   | Connection String is collection of name/value pairs separated by semicolon which gives information of data source with which connection needs to be established. |
+| DataSource         | It specifies name of computer and SQL server instance with which connection is required.                                                                         |
+| IntegratedSecurity | It specifies that connection will be established using windows authentication of SQL Server username/password.                                                   |
+| Initial Catalog    | It specifies name of database with which connection is required.                                                                                                 |
+| UserID             | It specifies username to connect with database.                                                                                                                  |
+| Password           | It specifies password to connect with database.                                                                                                                  |
+	
