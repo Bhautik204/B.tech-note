@@ -19,7 +19,7 @@
 | Oracle        | <li>For Oracle Data Sources.</li><br><li>Uses the **==System.Data.OracleClient==** namespace.</li><br><li>EX:- Oracle 8, 8i, 9i & Many more versions.</li>                                                                 |
 - It is a component that has been explicitly designed for **data manipulation**.
 - It is used for connecting to a database, executing commands, and retrieving results.
-- The Data Provider has core objects like:
+- The ***Data Provider core objects*** like:
 	- Connection
 	- Command
 	- Data Reader
@@ -31,7 +31,7 @@
 	- The base class for all Connection objects is the DbConnection class.
 	- Methods of Connection Object
 		- **Open():** this method opens connection using information provided by connection string. 
-		- **Close():** this method closes already opened connecti
+		- **Close():** this method closes already opened connection.
 	- Properties Of Connection Object👇
 
 | Properties         | Description                                                                                                                                                      |
@@ -42,21 +42,21 @@
 | Initial Catalog    | It specifies name of database with which connection is required.                                                                                                 |
 | UserID             | It specifies username to connect with database.                                                                                                                  |
 | Password           | It specifies password to connect with database.                                                                                                                  |
-##### command
-- It enables access to database commands to return data, modify data, run stored procedures, and send or retrieve parameter information.
-- It **executes a command against a data source.**
-- Exposes parameters and can execute in the scope of a transaction from a connection.
-- You can execute SQL queries to return data in a DataSet or a DataReader object.
-- Command object performs the standard Select, Insert, Delete and Update T-SQL operations.
-- The base class for all command objects is the DbCommand class.
-- Properties of Command Object.
-	- **Connection:** It specifies that on which connection command executes.
-	- **CommandType:** It specifies type of Command to execute 
-		- Text – SQL Statement as command type 
-		- StoredProcedure – Stored Procedure as command type 
-		- Table – Table Name as command type
-	- **CommandText:** Either SQL Statement or name of Stored Procedure or name of Database table.
-- Methods Of Command Object👇
+- ##### command
+	- It enables access to database commands to return data, modify data, run stored procedures, and send or retrieve parameter information.
+	- It **executes a command against a data source.**
+	- Exposes parameters and can execute in the scope of a transaction from a connection.
+	- You can execute SQL queries to return data in a DataSet or a DataReader object.
+	- Command object performs the standard Select, Insert, Delete and Update T-SQL operations.
+	- The base class for all command objects is the DbCommand class.
+	- Properties of Command Object.
+		- **Connection:** It specifies that on which connection command executes.
+		- **CommandType:** It specifies type of Command to execute 
+			- **Text** – SQL Statement as command type 
+			- **StoredProcedure** – Stored Procedure as command type 
+			- **Table** – Table Name as command type
+		- **CommandText:** Either SQL Statement or name of Stored Procedure or name of Database table.
+		- Methods Of Command Object👇
 
 | Method             | Description                                                                                                                                                                 |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -66,3 +66,10 @@
 | ExecuteXmlReader() | This method executes the command specified and returns an instance of XmlReader class. This method can be used to return the **result set in the form of an XML document.** |
 | CreateCommand()    | This method created new command object on given connection object.                                                                                                          |
 
+- ##### DataReader
+	- The Data Reader provides a **high-performance stream of data from the data source.**
+	- It **reads a forward-only, read-only stream of data** from a data source.
+	- DataReader **object works in connected way.**
+	- The base class for all DataReader objects is the **DbDataReader** class.
+	- The data reader is also called a **firehose cursor or forward read-only cursor** because it moves forward through the data.
+	- The data reader not only allows you to move forward through each record of database, but it also enables you to parse the data from each column.
