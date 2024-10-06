@@ -73,3 +73,5 @@
 	- The base class for all DataReader objects is the **DbDataReader** class.
 	- The data reader is also called a **firehose cursor or forward read-only cursor** because it moves forward through the data.
 	- The data reader not only allows you to move forward through each record of database, but it also enables you to parse the data from each column.
+
+#DOTNET

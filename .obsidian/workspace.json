@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "57d3fdfb5d917e02",
+        "id": "d6735afe4ad90742",
         "type": "tabs",
         "children": [
           {
-            "id": "1f727a546837966d",
+            "id": "b7aedc302dce1748",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP. Net Core.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a6c6de8c648e05a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADO.NET.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADO.NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADO.NET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ADO.NET.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,20 +139,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a6c6de8c648e05a",
+  "active": "b7aedc302dce1748",
   "lastOpenFiles": [
     "Data Provider core objects.md",
+    "Branches Of  Accounting.md",
+    "Characteristics Of Accounting & Objective Of Accounting & Pros-Cons.md",
+    "Inheritance.md",
+    "Fundamentals Of  Accounting.md",
+    "Characteristics Of Accounting & Objective Of Accounting.md",
+    "ASP. Net Core.md",
+    "ASP. Net Introduction.md",
     "ADO.NET.md",
     "Pasted image 20240928200631.png",
     "Pasted image 20240928200018.png",
     "Pasted image 20240928195953.png",
     "Pasted image 20240928195940.png",
-    "ASP. Net Core.md",
     "Pasted image 20240928101713.png",
     "Pasted image 20240928101615.png",
-    "Branches Of  Accounting.md",
-    "Fundamentals Of  Accounting.md",
-    "Characteristics Of Accounting & Objective Of Accounting.md",
     "Pasted image 20240828202010.png",
     "Pasted image 20240828201942.png",
     "Pasted image 20240828201900.png",

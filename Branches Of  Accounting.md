@@ -9,3 +9,5 @@
 	- Recording the transactions
 	- Preparation of final accounts
 	- Reporting to the users of accounting information
+
+#FOA 
