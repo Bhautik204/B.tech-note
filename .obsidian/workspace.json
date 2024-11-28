@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7aedc302dce1748",
+            "id": "c3ff30531064551b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
             }
           }
         ]
@@ -155,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7aedc302dce1748",
+  "active": "c3ff30531064551b",
   "lastOpenFiles": [
+    "Machine Learning.md",
     "README.md",
     "Data Mining.md",
     "Data Provider core objects.md",
