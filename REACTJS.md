@@ -7,7 +7,14 @@
 - React will find what changes have been made and changes only what needs to be changed.
 ## Setup a Environment
 - https://codesandbox.io to write/run React code directly using browser without any pre-requisite.
-- to install react in local system , need Node.js and npm after installing npm use npx command to install/setup new react app using below cmd.
-- `npx create-react-app my-app`
+- to install react in local system , need Node.js and npm after installing npm use npx command to install/setup new react app using below cmd. 
+`npx create-react-app my-app`
 - to run react app need to start using npm cmd.
-- `cd`
+`cd my-app
+`npm start`
+
+## JSX
+```JS
+root.render(<h1> hello world</h1>)
+```
+- 
