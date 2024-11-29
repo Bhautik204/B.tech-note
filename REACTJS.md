@@ -42,7 +42,8 @@ root.render(<h1>hello from { name }</h1>)
 
 ---
 
-## Function Components
+## Function Components 
+ - most preferred component for development 
 - simplest way to define a component is to write a JavaScript function:
 ```JS
 function Welcome() {
@@ -80,4 +81,12 @@ class Welcome extends React.Component {
     }
 }
 root.render(<Welcome/>);
+```
+- Similar to function component we can have properties in class components as well, we can directly access properties in class component with the help of built-in object named props.
+```JS
+class Welcome extends React.Component {
+    render(){
+        return(<h1>Hello world from {this.props.name}</h1>);
+    }
+}
 ```
