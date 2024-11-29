@@ -22,4 +22,22 @@
 
 ## Why use ML?
 
+## When to use ML? 
+- when it is an unstudied Phenomenon.
+- When it is cost-effective.
+- 
+## When not to use ML
+- decision made by it must be explainable.
+- cost of an error made by system is too high.
+- getting right data is too hard or impossible.
+- solve problem using traditional software development at a lower cost.
+- heuristic would work reasonably well.
+- build system that will not have to be improved frequently over time.
+
+## ML terminology
+- **Algorithm:** A method, function,or series of instruction used to generate a machine learning model.
+- **Model:** Mathematical representation of real-world process learned from data.
+	- A model defined relationship between features and label.
+	- Model are created/learned when you train an algorithm on dataset.
+- 
 #ML
