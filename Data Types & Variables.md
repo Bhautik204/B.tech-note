@@ -48,3 +48,5 @@ namespace MyFirstApp
 - No white space allowed within the variable name.
 - Cannot use reserved keywords.
 - Once declared with a type, it cannot be re-declared with a new type.
+
+#c-sharp 

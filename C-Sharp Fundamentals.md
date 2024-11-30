@@ -12,7 +12,7 @@
 - **Uses**: Mobile, desktop, web applications, web services, websites, games, VR, database applications, etc.
 - **Key Features**:
   - **Case-sensitive**: `MyClass` and `myclass` are different.
-  - **Object-oriented**: Organizes code into objects.
+  - **Object-oriented**: Organise code into objects.
   - **Structured**: Programs can be divided into smaller parts using functions.
   - **Simple to use**: Provides a structured approach and is user-friendly.
   - **Scalable**: Automatically updates and replaces old files.
@@ -23,7 +23,7 @@
 - **Released**: 2016
 - **Cross-platform**: Runs on Windows, Mac, and Linux.
 - **Usage**: Building web apps (ASP.NET Core apps), mobile apps, and Universal Windows Platform apps.
-- **Supports**: Microservices and REST API creation.
+- **Supports**: Micro-services and REST API creation.
 - **Performance**: Enhances app performance without hardware changes.
 
 ### .NET Framework
@@ -31,7 +31,7 @@
 - **Platform**: Windows only.
 - **Usage**: Building web apps, desktop apps, and web services.
 - **Limitations**: Lower performance, less flexibility, security, and speed compared to .NET Core. 
-- Does not support microservices.
+- Does not support micro-services.
 
 ## Key Concepts
 
@@ -80,3 +80,5 @@ namespace HelloWorld
 ### [[Constructors]]
 
 ### [[Inheritance]]
+
+#c-sharp

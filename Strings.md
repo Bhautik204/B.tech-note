@@ -37,3 +37,5 @@ namespace MyFirstApp
 - **Length**: Returns the length of string.
 - **Remove()**: Deletes characters from beginning to specified index.
 - **Replace()**: Replaces a character with another character.
+
+#c-sharp 

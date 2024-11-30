@@ -1,4 +1,4 @@
-**Purpose**: Organizes classes to avoid name conflicts.
+**Purpose**: Organise classes to avoid name conflicts.
 - **Syntax**:
   ```csharp
   namespace namespace_name
@@ -15,3 +15,4 @@
   }
   ```
 - **Using Namespaces**: Import with `using` keyword at the top of the file.
+#c-sharp 
