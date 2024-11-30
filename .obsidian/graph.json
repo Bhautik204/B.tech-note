@@ -5,47 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "OOP",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "FOA",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "Csharp",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "SoftwareEngineering",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    }
-  ],
+  "collapse-color-groups": true,
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.16455301455301,
-  "lineSizeMultiplier": 1.67390852390852,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.425155925155925,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
-  "linkStrength": 0.978170478170478,
-  "linkDistance": 144,
-  "scale": 0.6236191942126396,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.0078125,
   "close": true
 }
