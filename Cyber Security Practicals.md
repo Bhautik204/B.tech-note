@@ -38,13 +38,6 @@
 
 ---
 
-### **5. [OWASP Juice Shop](https://juice-shop.herokuapp.com/)**
-
-- A modern, intentionally vulnerable web app that can be hosted or used live.
-- URL: [https://juice-shop.herokuapp.com/](https://juice-shop.herokuapp.com/)
-
----
-
 ### **6. [SQL Injection Practice Sites by PortSwigger Labs](https://portswigger.net/web-security/sql-injection)**
 
 - Provides multiple intentionally vulnerable challenges.
