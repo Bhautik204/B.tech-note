@@ -65,8 +65,17 @@
 - enumeration
 - batch
 - risk
+	- when we not find vulnerability, we have to try different payloads
+	- 1(by default) : payload we use doesn't harm server
+	- 2 : it also use Time-based SQL injection
+	- 3 : it try OR-based SQL injection, as a parameter also use update command and put as payload in database. it's so harmful that if it hit database it will update database,table and data.
 - level
-- thread
+	- when we testing a website, sometimes we not find vulnerability.
+	- if we level up to 2 it goes into cookie and test it and is their any vulnerability?
+	- if we use level 3 it goes into user-agent and test it.
+	- hi
+- thread 
+	- when website is larger, you can tell how many connection should use. by default: 1 and max: 10
 - verbosity
 - proxy
 - SQL injection via burp-suite
