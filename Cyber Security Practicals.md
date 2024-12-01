@@ -63,7 +63,8 @@
 	- it a parameter, which is scan whole website and then it tell which parameter is vulnerable
 	- their is depth in crawl , which is tell how many directory explore. 
 - enumeration
-- batch
+	- if we find vulnerable url then how we exploit website and find useful data.
+	- when we give vulnerability report, we have to show which type of data we have, so that give high impact to report.
 - risk
 	- when we not find vulnerability, we have to try different payloads
 	- 1(by default) : payload we use doesn't harm server
@@ -73,14 +74,33 @@
 	- when we testing a website, sometimes we not find vulnerability.
 	- if we level up to 2 it goes into cookie and test it and is their any vulnerability?
 	- if we use level 3 it goes into user-agent and test it.
-	- hi
+	- higher the level , vulnerability impact and test range goes high.
+	- 1 is default and 5 is max 
 - thread 
 	- when website is larger, you can tell how many connection should use. by default: 1 and max: 10
 - verbosity
+	- it give option that if SQL injection is perform on any website , we can fetch the details.
+	- 0 : show only Python tracebacks, error and critical messages.
+	- 1 : show information and warning messages.
+	- 2 : show debug messages.
+	- 3 : show payload injected.
+	- 4 : show HTTP requests.
+	- 5 : show HTTP responses headers.
+	- 6 : show HTTP responses page content.
+- batch
 - proxy
 - SQL injection via burp-suite
-- -u
-	- use to provide URL of website
+- -u (use to provide URL of website)
+- --current-user (give current user name)
+- --current-db (to see current database)
+- --hostname (to identify hostname/system name )
+- --batch (to select by default option of questions)
+- --dbs (give details of all available database)
+- -D (to select specific database from list)
+- --table (give details of all table in selected database)
+- -T (to select specific table from tables)
+- --dump (to see all data of table)
+- --columns (to see datatypes of columns in table)
 -  --forms
 -  --data
 - --header
