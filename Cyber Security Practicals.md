@@ -110,5 +110,5 @@
 - --output-dir
 - --temper
 
-## Step & explanation of sqlmap cmd
-1. 
+## reference
+https://youtu.be/QsMkQMKsIII?si=S6O61COEgzBIuZtn
