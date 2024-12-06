@@ -39,5 +39,6 @@
 - **Model:** Mathematical representation of real-world process learned from data.
 	- A model defined relationship between features and label.
 	- Model are created/learned when you train an algorithm on dataset.
-- 
+
+
 #ML
