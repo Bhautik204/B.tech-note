@@ -40,5 +40,6 @@
 	- A model defined relationship between features and label.
 	- Model are created/learned when you train an algorithm on dataset.
 
-
+## Bias-Variance Trade-Off
+- balance 
 #ML
