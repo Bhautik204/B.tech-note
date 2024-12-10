@@ -19,3 +19,14 @@ While it might seem like using the SOC superpower makes things super easy, tha
 In such scenarios, it is very important for the ==SOC analyst== to understand the context of the activity and make a judgement call based on their `analysis skills and security knowledge.` While doing so, the analyst can look at the `past behaviour of the user or the prevalence of a certain event or artefact throughout the organisation or a certain department`. For example, *if a certain user from the network team is using Wireshark, there is a chance that other users from the same team also use Wireshark. However, Wireshark seen on a machine belonging to someone from HR or finance should rightfully raise some eyebrows.*
 
 ##
+
+![https://youtu.be/-FSt5WmvTEM](https://youtu.be/-FSt5WmvTEM)
+
+Questions : 
+What is the name of the account causing all the failed login attempts? - ADM-01
+How many failed logon attempts were observed? -1187
+What is the IP address of Glitch? -10.0.255.1
+When did Glitch successfully logon to ADM-01? Format: MMM D, YYYY HH:MM:SS.SSS - |   |
+|---|
+|Dec 1, 2024 @ 08:54:39.000|
+What is the decoded command executed by Glitch to fix the systems of Wareville? -
