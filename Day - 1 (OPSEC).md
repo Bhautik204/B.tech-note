@@ -1,3 +1,4 @@
+# Title : Maybe SOC-mas music, he thought, doesn't come from a store?
 - ### Learning Objectives
 	- Learn how to investigate malicious link files.
 	- Learn about OPSEC and OPSEC mistakes.
@@ -61,3 +62,4 @@ There's also the notorious Chinese hacking group APT1, which made several OPSEC
 These failures provided enough information for cyber security researchers and law enforcement to publicly identify group members.
 
 -----
+#AOC 
