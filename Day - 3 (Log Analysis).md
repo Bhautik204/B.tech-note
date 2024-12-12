@@ -22,3 +22,4 @@ Explaining how ELK collates and processes these logs is out of the scope of toda
 
 The first part of today's task is to investigate the attack on Frosty Pines Resort's Hotel Management System to see what it looks like to a blue teamer. You will then test your web app skills by recreating the attack.
 
+#AOC 

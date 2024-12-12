@@ -43,4 +43,6 @@
 
 ## Bias-Variance Trade-Off
 - balance 
+
+Ordinary Least Square (OLS)
 #ML
