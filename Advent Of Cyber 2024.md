@@ -6,6 +6,7 @@ This exercise is intended solely for educational purposes to enhance knowledge o
 ## [[Day - 1 (OPSEC)]]
 ## [[Day - 2 (Log Analysis)]]
 ## [[Day - 3 (Log Analysis)]]
-
 ## [[Day - 4 (Atomic Red Team)]]
+## [[Day - 5 (XXE)]]
+
 #AOC
