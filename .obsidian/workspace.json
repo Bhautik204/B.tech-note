@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day - 5 (XXE).md",
+                "file": "Day - 7 (AWS Log analysis).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day - 5 (XXE)"
+              "title": "Day - 7 (AWS Log analysis)"
             }
           },
           {
@@ -176,9 +176,11 @@
   },
   "active": "115f7b32a98d908b",
   "lastOpenFiles": [
-    "Components.md",
-    "Day - 5 (XXE).md",
     "Advent Of Cyber 2024.md",
+    "Day - 7 (AWS Log analysis).md",
+    "Day - 6 (SandBoxes).md",
+    "Day - 5 (XXE).md",
+    "Components.md",
     "Day - 3 (Log Analysis).md",
     "Day - 4 (Atomic Red Team).md",
     "Machine Learning.md",
@@ -200,8 +202,6 @@
     "Operators.md",
     "Data Types & Variables.md",
     "Console Class Methods.md",
-    "Namespaces.md",
-    "README.md",
     "Pasted image 20240928200631.png",
     "Pasted image 20240928200018.png",
     "Pasted image 20240928195953.png",

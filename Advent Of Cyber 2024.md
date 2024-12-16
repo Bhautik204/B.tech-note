@@ -9,4 +9,8 @@ This exercise is intended solely for educational purposes to enhance knowledge o
 ## [[Day - 4 (Atomic Red Team)]]
 ## [[Day - 5 (XXE)]]
 
+## [[Day - 6 (SandBoxes)]]
+
+## [[Day - 7 (AWS Log analysis)]]
+
 #AOC
