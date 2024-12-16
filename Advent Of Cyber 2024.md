@@ -1,3 +1,4 @@
+
 - TryHackMe's AttackBox is Ubuntu Based Virtual Machine hosted in cloud.
 > [!warning] warning/caution/attention
 > The following activity is part of a controlled cybersecurity awareness challenge and is conducted within a safe and isolated environment.  
@@ -12,5 +13,6 @@ This exercise is intended solely for educational purposes to enhance knowledge o
 ## [[Day - 6 (SandBoxes)]]
 
 ## [[Day - 7 (AWS Log analysis)]]
+## [[Day - 8 (Shellcodes)]]
 
 #AOC
