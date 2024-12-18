@@ -41,6 +41,7 @@ root.render(<h1>hello from { name }</h1>)
 - When creating a React component, the component's name **MUST** start with an **upper case letter**.
 
 ---
+## [[Events]]
 
 
 

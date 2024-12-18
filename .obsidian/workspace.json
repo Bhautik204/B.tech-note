@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day - 8 (Shellcodes).md",
+                "file": "Events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day - 8 (Shellcodes)"
+              "title": "Events"
             }
           }
         ]
@@ -162,16 +162,17 @@
   },
   "active": "115f7b32a98d908b",
   "lastOpenFiles": [
-    "Advent Of Cyber 2024.md",
+    "REACTJS.md",
+    "Components.md",
+    "Events.md",
     "Day - 8 (Shellcodes).md",
+    "Advent Of Cyber 2024.md",
     "Day - 7 (AWS Log analysis).md",
     "Day - 6 (SandBoxes).md",
     "Day - 5 (XXE).md",
-    "Components.md",
     "Day - 3 (Log Analysis).md",
     "Day - 4 (Atomic Red Team).md",
     "Machine Learning.md",
-    "REACTJS.md",
     "ASP. Net Introduction.md",
     "Day - 2 (Log Analysis).md",
     "Day - 1 (OPSEC).md",
@@ -187,7 +188,6 @@
     "Strings.md",
     "Arrays.md",
     "Operators.md",
-    "Data Types & Variables.md",
     "Pasted image 20240928200631.png",
     "Pasted image 20240928200018.png",
     "Pasted image 20240928195953.png",
