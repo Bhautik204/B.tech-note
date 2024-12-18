@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Events.md",
+                "file": "Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Events"
+              "title": "Routing"
             }
           }
         ]
@@ -163,8 +163,9 @@
   "active": "115f7b32a98d908b",
   "lastOpenFiles": [
     "REACTJS.md",
-    "Components.md",
+    "Routing.md",
     "Events.md",
+    "Components.md",
     "Day - 8 (Shellcodes).md",
     "Advent Of Cyber 2024.md",
     "Day - 7 (AWS Log analysis).md",
@@ -187,7 +188,6 @@
     "Classes & Objects.md",
     "Strings.md",
     "Arrays.md",
-    "Operators.md",
     "Pasted image 20240928200631.png",
     "Pasted image 20240928200018.png",
     "Pasted image 20240928195953.png",
