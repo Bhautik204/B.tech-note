@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day -12.md",
+                "file": "Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day -12"
+              "title": "Machine Learning"
             }
           }
         ]
@@ -162,8 +162,8 @@
   },
   "active": "115f7b32a98d908b",
   "lastOpenFiles": [
-    "Advent Of Cyber 2024.md",
     "Day -12.md",
+    "Advent Of Cyber 2024.md",
     "Routing.md",
     "REACTJS.md",
     "Events.md",

@@ -44,4 +44,9 @@
 ## Bias-Variance Trade-Off
 - balance 
 
+
+## support Vector Regression
+- hyperplane
+- Margin (e - insensitive loss)
+- support 
 #ML
