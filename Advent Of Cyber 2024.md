@@ -17,5 +17,7 @@ This exercise is intended solely for educational purposes to enhance knowledge o
 
 ## [[Day -12]]
 
+## [[Day - 17]]
+
 
 #AOC
