@@ -20,4 +20,8 @@ now click **explore field i just created in search** > change time to **All time
 
 `index=cctv_feed | stats count(Events) by UserName`
 `index=cctv_feed | stats count by Event
-`index=cctv_feed *failed*`
+`index=cctv_feed *failed*` > now replaced failed with repeat session id
+`index=web_logs *session id*` > add clientip,file,status
+now remove session id and add clientip
+`index=cctv_feed *new session id*`
+
