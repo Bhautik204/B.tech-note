@@ -14,4 +14,8 @@ cat docker-registry-logs.log | grep "10.10.130.253"
 cat docker-registry-logs.log | grep "10.10.130.253" | grep "Patch"
 cat docker-registry-logs.log | grep "10.10.130.253" | grep "HEAD"
 kubectl get rolebindings -n wareville
+kubectl describe rolebindings job-runner -n wareville
+kubectl describe rolebindings mayor-user -n wareville
+kubectl describe role mayor-user -n wareville
+
 
