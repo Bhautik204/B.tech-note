@@ -48,5 +48,9 @@
 ## support Vector Regression
 - hyperplane
 - Margin (e - insensitive loss)
-- support 
+- support
+
+## logistic regression
+- pi n by i=0 p(xi)^yi (1-p(xi))^1-yi
+- 
 #ML
