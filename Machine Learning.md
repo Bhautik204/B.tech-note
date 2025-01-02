@@ -52,5 +52,9 @@
 
 ## logistic regression
 - pi n by i=0 p(xi)^yi (1-p(xi))^1-yi
+
+
+
+## Ordinary Least Square(OLS)
 - 
 #ML
