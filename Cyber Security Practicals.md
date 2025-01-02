@@ -6,7 +6,7 @@
 2. **bWAPP**:
     - A buggy web application for testing web security knowledge.
     - [Visit here](http://www.itsecgames.com/)
-3.  **OWASP Juice Shop**:
+3.  **O+WASP Juice Shop**:
     - A modern application with intentionally included vulnerabilities, including SQL injection.
     - [Visit here](https://owasp.org/www-project-juice-shop/)
 4. **Hack The Box**:
@@ -112,3 +112,4 @@
 
 ## reference
 https://youtu.be/QsMkQMKsIII?si=S6O61COEgzBIuZtn
+
