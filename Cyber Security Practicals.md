@@ -94,6 +94,7 @@
 - --current-user (give current user name)
 - --current-db (to see current database)
 - --hostname (to identify hostname/system name )
+- 
 - --batch (to select by default option of questions)
 - --dbs (give details of all available database)
 - -D (to select specific database from list)
