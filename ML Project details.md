@@ -1,11 +1,4 @@
 
-
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-
-
-
 # ML Project details
 This dataset is like a goldmine for a machine learning project! With rich details about restaurants—from their locations and services to customer ratings and cuisines—you've got a lot to work with. Here are some exciting project ideas you might consider:
 
